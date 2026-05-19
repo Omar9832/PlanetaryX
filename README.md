@@ -1,17 +1,20 @@
-🚀 Space Explorer App
+# 🚀 Space Explorer App
 
-This is a React Native (Expo) space exploration application where users can:
+This is a **React Native (Expo)** space exploration application where users can:
 
-View different planets in the solar system
-Learn detailed information about each planet
-Access subscription-based features for enhanced content and functionality
+- View different planets in the solar system  
+- Learn detailed information about each planet  
+- Access subscription-based features for enhanced content and functionality  
 
-The app is built using Expo (React Native) and follows a modern mobile-first design approach.
+The app is built using **Expo (React Native)** and follows a modern mobile-first design approach.
 
-📱 Getting Started
+---
+
+## 📱 Getting Started
 
 Install dependencies:
 
+bash
 npm install
 
 Start the development server:
