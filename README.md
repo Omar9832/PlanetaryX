@@ -1,50 +1,46 @@
-# Welcome to your Expo app 👋
+🚀 Space Explorer App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a React Native (Expo) space exploration application where users can:
 
-## Get started
+View different planets in the solar system
+Learn detailed information about each planet
+Access subscription-based features for enhanced content and functionality
 
-1. Install dependencies
+The app is built using Expo (React Native) and follows a modern mobile-first design approach.
 
-   ```bash
-   npm install
-   ```
+📱 Getting Started
 
-2. Start the app
+Install dependencies:
 
-   ```bash
-   npx expo start
-   ```
+npm install
 
-In the output, you'll find options to open the app in a
+Start the development server:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+npx expo start
+📲 Run the App
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+After starting the project, you can open it using:
 
-## Get a fresh project
+Expo Go (quick testing on mobile)
+Android Emulator
+iOS Simulator
+Development build
+🛠 Development
 
-When you're ready, run:
+You can begin development by editing files inside the app directory.
+This project uses file-based routing for navigation.
 
-```bash
+🔄 Reset Project (Optional)
+
+If you want a clean slate:
+
 npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+This moves starter code to app-example and creates a blank app directory.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+📚 Learn More
+Expo Documentation: https://docs.expo.dev
+Expo Tutorials: https://docs.expo.dev/tutorial/introduction/
+🌍 Community
+GitHub: https://github.com/expo/expo
+Discord: https://chat.expo.dev
